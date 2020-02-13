@@ -1,0 +1,6 @@
+#Intelij Idea
+.idea
+CucumberTutorial.iml
+
+#Maven
+target
